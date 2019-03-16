@@ -1,6 +1,13 @@
 # Home Visitor Welcome System
 ### Author: Robert (Yunbo) Chen
 
+## Intro
+I made a home
+visitor management solution for homeowners to design IoT suite (lighting, photo gallery, music combination) for specific visitors. The system is implemented with AWS services. Paper is listed in the repo.
+
+## Demo:
+https://www.youtube.com/watch?v=IFgquaeec74 
+
 ## Setup: 
 There is only one Lambda function needed for actual code. 
 But you need to set up different AWS services which I will walk you through.
