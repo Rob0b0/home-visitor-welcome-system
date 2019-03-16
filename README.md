@@ -8,6 +8,9 @@ visitor management solution for homeowners to design IoT suite (lighting, photo 
 ## Demo:
 https://www.youtube.com/watch?v=IFgquaeec74 
 
+## System Architecture:
+![workflow.jpg](workflow.jpg)
+
 ## Setup: 
 There is only one Lambda function needed for actual code. 
 But you need to set up different AWS services which I will walk you through.
